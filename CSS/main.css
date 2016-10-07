@@ -1,10 +1,12 @@
 h1 {
-  color:blue;
-  background:gray;
+color:blue;
+background:gray;
 }
+
 p {
-  color:green;
+color:green;
 }
+
 img {
-  width:250px;
+width:250px;
 }
