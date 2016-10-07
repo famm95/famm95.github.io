@@ -1,14 +1,10 @@
-h1 {
-color:blue;
-
-
-font-family:"gardengrown";}
-
-p {
-color:black;
-}
-
-img {
-width:250px;
-}
+body {background:DarkGray;}
+h1 {color:Navy;
+text-align:center;
+background:DimGray}
+h2 {color:MidnightBlue;
+text-decoration:underline}
+h3 {color:Teal;}
+p {color:black;}
+img {width:250px;}
 img.main {width:400px;}
