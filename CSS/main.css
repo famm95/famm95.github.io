@@ -4,10 +4,9 @@ text-align:center;
 background:DimGray;
 font-family: 'Allura', cursive;}
 h2 {color:MidnightBlue;
-text-decoration:underline
-font-family: 'BenchNine 700', sans-serif;}
+font-family: 'BenchNine700', sans-serif;}
 h3 {color:Teal;
-font-family: 'BenchNine 300', sans-serif;}
+font-family: 'BenchNine300', sans-serif;}
 p {color:black;}
 img {width:250px;}
 img.main {width:300px;}
